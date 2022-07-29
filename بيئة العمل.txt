@@ -1,0 +1,4 @@
+
+conda activate instaplus
+jupyter notebook
+conda deactivate
